@@ -1,0 +1,7 @@
+@inproceedings{REPO188,
+    author = "Zhang, Weixia and Zhai, Guangtao and Wei, Ying and Yang, Xiaokang and Ma, Kede",
+    booktitle = "IEEE Conference on Computer Vision and Pattern Recognition",
+    pages = "14071--14081",
+    title = "{Blind Image Quality Assessment via Vision-Language Correspondence: A Multitask Learning Perspective}",
+    year = "2023"
+}
